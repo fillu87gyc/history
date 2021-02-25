@@ -8,6 +8,8 @@ github.com/b4b4r07/go-colon v0.0.0-20170422170013-bc5ae99f1c2b h1:HsUCBMd35ftBSj
 github.com/b4b4r07/go-colon v0.0.0-20170422170013-bc5ae99f1c2b/go.mod h1:Zgql1XCCHFhr7N1n4rWNS1f7TTLNkVxGyD6vFr18DdE=
 github.com/b4b4r07/go-pathshorten v0.0.0-20170605152316-b07af83744ea h1:O3+d9y9YSEwY+ZsqBYvzYOIEtJUgTOk6qtcbqxg2gu4=
 github.com/b4b4r07/go-pathshorten v0.0.0-20170605152316-b07af83744ea/go.mod h1:HdhsBEviOgiPNlurQx1Fbr/17SkwL6vUYMRZLNgXy0Y=
+github.com/b4b4r07/history v0.0.0-20191210064415-8da016bd91b0 h1:jh/2as/ZOV7FM6anNeMfXElnWF/MfvI5nqiZ02zvBQo=
+github.com/b4b4r07/history v0.0.0-20191210064415-8da016bd91b0/go.mod h1:lgp1eNI+E++b7G2Z1lpCLVsbbG/t2lx0dF14wDwXtSU=
 github.com/briandowns/spinner v0.0.0-20170404174923-fb621c2fd72f h1:vv09SPvWkvmEzbRlEb/0wSz9lab6+FiUAZTkkpx0WUU=
 github.com/briandowns/spinner v0.0.0-20170404174923-fb621c2fd72f/go.mod h1:hw/JEQBIE+c/BLI4aKM8UU8v+ZqrD3h7HC27kKt8JQU=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
