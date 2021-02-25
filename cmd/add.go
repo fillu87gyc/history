@@ -22,13 +22,6 @@ func add(cmd *cobra.Command, args []string) error {
 	}
 
 	r := history.NewRecord()
-	if addCommand == "" {
-		return errors.New("--command option is required")
-	}
-	if addDir == "" {
-		return errors.New("--dir option is required")
-	}
-
 	// Skip adding if the command is registed as ignoring word
 	if history.CheckIgnores(addCommand) {
 		return nil
